@@ -1,0 +1,21 @@
+.thumbnail-img {
+  width: 60px;
+}
+.thumb-btn {
+  border: 0px;
+  outline: none;
+  background: transparent;
+  cursor: pointer;
+  margin: 3px;
+  padding: 0;
+}
+@media (min-width: 768px) {
+  .thumbnail-img {
+    width: 100px;
+  }
+}
+@media (min-width: 992px) {
+  .thumbnail-img {
+    width: 85px;
+  }
+}
